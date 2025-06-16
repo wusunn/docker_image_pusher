@@ -5,6 +5,13 @@
 - 支持最大40GB的大型镜像<br>
 - 使用阿里云的官方线路，速度快<br>
 
+# 修改命名规则
+将镜像调整c:镜像名称_镜像版本， 避免占用多余的命名空间
+`docker pull registry.cn-hangzhou.aliyuncs.com/sw_images_sync/c:<镜像名称>_<版本>`
+
+
+
+
 视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
 
 作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
