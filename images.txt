@@ -6,4 +6,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # lizytalk/dejavu
 # hello-world:nanoserver1709
-alpine:latest
+# alpine:latest -> registry.cn-hangzhou.aliyuncs.com/sw_images_sync/c:alpine_latest
+lizytalk/dejavu
