@@ -7,4 +7,5 @@
 # lizytalk/dejavu
 # hello-world:nanoserver1709
 # alpine:latest -> registry.cn-hangzhou.aliyuncs.com/sw_images_sync/c:alpine_latest
-lizytalk/dejavu
+# lizytalk/dejavu
+minio/minio:RELEASE.2025-05-24T17-08-30Z
