@@ -10,4 +10,23 @@
 # lizytalk/dejavu
 # minio/minio:RELEASE.2025-05-24T17-08-30Z
 # minio/minio:RELEASE.2023-04-28T18-11-17Z
-meyay/languagetool:latest
+# meyay/languagetool:latest
+docker.io/hashicorp/consul:1.13.2
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/jaegertracing/all-in-one:latest
+docker.io/memcached:latest
+docker.io/memcached:latest
+docker.io/memcached:latest
+docker.io/mongo:5
+docker.io/mongo:5
+docker.io/mongo:5
+docker.io/mongo:5
+docker.io/mongo:5
+docker.io/mongo:5
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
+docker.io/deathstarbench/hotel-reservation:latest
