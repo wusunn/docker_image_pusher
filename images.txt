@@ -13,4 +13,5 @@
 # meyay/languagetool:latest
 # curlimages/curl 
 # 2fauth/2fauth
-gitea/gitea:1.21.2
+# gitea/gitea:1.21.2
+louislam/uptime-kuma:2.1.0
