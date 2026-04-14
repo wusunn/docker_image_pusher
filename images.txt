@@ -20,7 +20,8 @@
 # wandb/local:0.79.1
 # ghcr.io/mlflow/mlflow:v3.10.1-full
 #justsong/one-api
-docker.litellm.ai/berriai/litellm:main-latest 
+# docker.litellm.ai/berriai/litellm:main-latest 
+calciumion/new-api:latest
 
 
 
