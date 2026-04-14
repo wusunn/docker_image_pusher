@@ -18,6 +18,7 @@
 # linuxserver/hedgedoc:1.10.7
 # restyaplatform/restyaboard:v1.7.1
 # wandb/local:0.79.1
-ghcr.io/mlflow/mlflow:v3.10.1-full
+# ghcr.io/mlflow/mlflow:v3.10.1-full
+justsong/one-api
 
 
