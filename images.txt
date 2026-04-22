@@ -21,6 +21,7 @@
 # ghcr.io/mlflow/mlflow:v3.10.1-full
 #justsong/one-api
 # docker.litellm.ai/berriai/litellm:main-latest 
+mattermost/focalboard
 #calciumion/new-api:latest
 mongo:4.0
 redis:5
