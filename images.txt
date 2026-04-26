@@ -21,12 +21,13 @@
 # ghcr.io/mlflow/mlflow:v3.10.1-full
 #justsong/one-api
 # docker.litellm.ai/berriai/litellm:main-latest 
-mattermost/focalboard
+#mattermost/focalboard
 #calciumion/new-api:latest
 #mongo:4.0
 #redis:5
-ghcr.io/wekan/wekan:latest
-mongo:7
+#ghcr.io/wekan/wekan:latest
+#mongo:7
+vikunja/vikunja
 
 
 
