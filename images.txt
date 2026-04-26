@@ -23,8 +23,10 @@
 # docker.litellm.ai/berriai/litellm:main-latest 
 mattermost/focalboard
 #calciumion/new-api:latest
-mongo:4.0
-redis:5
+#mongo:4.0
+#redis:5
+ghcr.io/wekan/wekan:latest
+mongo:7
 
 
 
