@@ -32,8 +32,8 @@
 # kanboard/kanboard:v1.2.45
 # leantime/leantime:latest
 # dxflrs/garage:v2.3.0
-noooste/garage-ui:latest
-
+# noooste/garage-ui:latest
+chrislusf/seaweedfs
 
 
 
