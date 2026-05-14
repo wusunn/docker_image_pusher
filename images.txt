@@ -31,7 +31,8 @@
 # mattermost/focalboard:7.11.4
 # kanboard/kanboard:v1.2.45
 # leantime/leantime:latest
-dxflrs/garage:v2.3.0
+# dxflrs/garage:v2.3.0
+noooste/garage-ui:latest
 
 
 
