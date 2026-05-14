@@ -30,7 +30,8 @@
 # vikunja/vikunja
 # mattermost/focalboard:7.11.4
 # kanboard/kanboard:v1.2.45
-leantime/leantime:latest
+# leantime/leantime:latest
+dxflrs/garage:b6b18427a5fc9b5b7540cf6d0843afd5cf7f9b56
 
 
 
