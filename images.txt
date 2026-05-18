@@ -34,7 +34,8 @@
 # dxflrs/garage:v2.3.0
 # noooste/garage-ui:latest
 # chrislusf/seaweedfs
-2fauth/2fauth
+# 2fauth/2fauth
 
+ghcr.io/byaidu/pdfmathtranslate
 
 
