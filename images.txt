@@ -21,6 +21,7 @@
 # ghcr.io/mlflow/mlflow:v3.10.1-full
 #justsong/one-api
 # docker.litellm.ai/berriai/litellm:main-latest 
+byaidu/pdf2zh
 #mattermost/focalboard
 #calciumion/new-api:latest
 #mongo:4.0
@@ -36,6 +37,6 @@
 # chrislusf/seaweedfs
 # 2fauth/2fauth
 
-ghcr.io/byaidu/pdfmathtranslate
-
+# ghcr.io/byaidu/pdfmathtranslate
+byaidu/pdf2zh
 
