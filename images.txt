@@ -38,5 +38,6 @@ byaidu/pdf2zh
 # 2fauth/2fauth
 
 # ghcr.io/byaidu/pdfmathtranslate
-byaidu/pdf2zh
+# byaidu/pdf2zh
+jc21/nginx-proxy-manager:2.14.0
 
