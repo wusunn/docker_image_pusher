@@ -40,5 +40,6 @@ byaidu/pdf2zh
 # ghcr.io/byaidu/pdfmathtranslate
 # byaidu/pdf2zh
 # jc21/nginx-proxy-manager:2.14.0
-jc21/nginx-proxy-manager:2.10.4
+# jc21/nginx-proxy-manager:2.10.4
+tensorflow/tensorflow:2.21.0-gpu
 
