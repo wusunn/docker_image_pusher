@@ -1,3 +1,5 @@
+vanxv/zotero-pdf2zh
+# vanxv/zotero-pdf2zh
 # nginx
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -44,4 +46,4 @@
 # nvcr.io/nvidia/tensorflow:25.02-tf2-py3
 # nvcr.io/nvidia/cuda:13.2.0-cudnn-devel-ubuntu24.04
 # nvcr.io/nvidia/dgl:25.08-py3
-vikunja/vikunja:2.4.0
+# vikunja/vikunja:2.4.0
