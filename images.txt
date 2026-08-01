@@ -1,4 +1,4 @@
-vanxv/zotero-pdf2zh
+awwaawwa/pdfmathtranslate-next:v2.9.0-babeldoc-v0.6.4
 # vanxv/zotero-pdf2zh
 # nginx
 #支持私库
