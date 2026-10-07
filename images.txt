@@ -1,4 +1,5 @@
-tduckcloud/tduck-platform:v5
+tduckcloud/tduck-platform:latest
+# tduckcloud/tduck-platform:v5
 # ghcr.io/logseq/logseq-webapp:latest.
 # vanxv/zotero-pdf2zh:latest
 # awwaawwa/pdfmathtranslate-next:v2.9.0-babeldoc-v0.6.4
