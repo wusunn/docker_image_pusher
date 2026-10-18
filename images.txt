@@ -1,4 +1,5 @@
-vikunja/vikunja:2.7.0
+caddy:2.11
+# vikunja/vikunja:2.7.0
 # tduckcloud/tduck-platform:latest
 # tduckcloud/tduck-platform:v5
 # ghcr.io/logseq/logseq-webapp:latest.
