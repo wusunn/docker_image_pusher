@@ -1,4 +1,7 @@
-caddy:2.11
+sharelatex/sharelatex:6.3.1
+mongo:8.0
+redis:7.4
+# caddy:2.11
 # vikunja/vikunja:2.7.0
 # tduckcloud/tduck-platform:latest
 # tduckcloud/tduck-platform:v5
